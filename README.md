@@ -1,14 +1,9 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQEWigAZFfUZ1w/profile-displaybackgroundimage-shrink_200_800/0/1648828520435?e=2147483647&v=beta&t=AzKXY8og20pzr_nsbQz7p90zBs5c_UxzxSM6q1eQm4A)](https://ryz.io)
 <h1 align="center">Hi 👋, from code for intern</h1>
 <img align = "right" alt= "coading" width= "400px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
-
-
 - 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **codeforintern@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100013305993266" target="_blank"><img align="center" src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" alt="rashidyousufza3" height="30" width="40" /></a>
